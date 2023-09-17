@@ -1,0 +1,21 @@
+.dark {
+    background-color: #312f2f;
+    color: #FFFFFF;
+}
+
+.darkHeader {
+    background-color: #000000;
+}
+
+.darkMovieInfo button {
+    background-color: #000;
+    color: #fff;
+}
+
+.darkMovieInfo button:hover {
+    background-color: #333;
+}
+
+.darkTheme{
+    background-color: white;
+}

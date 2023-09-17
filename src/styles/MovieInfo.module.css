@@ -1,0 +1,9 @@
+.MovieInfo {
+    width: 200px;
+    margin: 5px;
+}
+
+.MovieInfo > button {
+    min-width: 200px;
+    min-height: 25px;
+}

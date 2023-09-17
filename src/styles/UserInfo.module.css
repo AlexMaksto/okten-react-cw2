@@ -1,0 +1,9 @@
+.UserInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.UserInfo > div {
+    margin-right: 5px;
+}
